@@ -1,0 +1,1 @@
+This is the labwork done by me for the course of Artificial Intelligence during my undergrad. Implemented search algorithms and knowledge based first order logic system.
